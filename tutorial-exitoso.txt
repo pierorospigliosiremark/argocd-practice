@@ -1,0 +1,1 @@
+https://redhat-scholars.github.io/argocd-tutorial/argocd-tutorial/02-getting_started.html
