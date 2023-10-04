@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: go-webapp
-        image: pierorospigliosiremark/go-webapp:v1
+        image: pierorospigliosiremark/go-webapp:v2
         ports:
         - containerPort: 8082
